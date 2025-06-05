@@ -18,7 +18,7 @@ We have two separate notebooks, each demonstrating a complete “load → wrangl
    - **Evaluate** performance using MAE and RMSE.  
    - **Interpret** model coefficients and predict rent for a 2-bedroom apartment.
 
-2. **Version 2 (“Sprint 5”, `predict-rent_v2.ipynb`)**  
+2. **Version 2 (`predict-rent_v2.ipynb`)**  
    - **Load** the same raw dataset as v1.  
    - **Wrangle** with a revised approach:  
      1. Drop nulls.  
@@ -38,6 +38,6 @@ We have two separate notebooks, each demonstrating a complete “load → wrangl
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/predict-rent.git
+   git clone https://github.com/JulietOrnellas/predict-rent.git
    cd predict-rent
 
